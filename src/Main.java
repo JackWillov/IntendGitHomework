@@ -6,7 +6,5 @@ public class Main {
         System.out.println("First Alpha");
         System.out.println("Second Alpha");
         System.out.println("Third Alpha");
-        System.out.println("First Bravo");
-        System.out.println("Second Bravo");
     }
 }
