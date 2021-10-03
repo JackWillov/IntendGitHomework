@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Third Alpha");
         System.out.println("First Bravo");
         System.out.println("Second Bravo");
+        System.out.println("Third Bravo");
     }
 }
