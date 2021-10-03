@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Third");
         System.out.println("First Alpha");
         System.out.println("Second Alpha");
+        System.out.println("Third Alpha");
     }
 }
